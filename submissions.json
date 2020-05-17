@@ -3165,6 +3165,25 @@
     ],
     "timestamp": "Feb/07/2022 08:49"
   },
+  "CF80483743": {
+    "contest_id": 1354,
+    "language": "GNU C++17",
+    "path": "codeforces/1354/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ternary String",
+    "problem_url": "https://codeforces.com/contest/1354/problem/B",
+    "submission_id": "CF80483743",
+    "submission_url": "https://codeforces.com/contest/1354/submission/80483743",
+    "tags": [
+      "binary search",
+      "dp",
+      "implementation",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "May/17/2020 16:09"
+  },
   "CF80492968": {
     "contest_id": 1354,
     "language": "GNU C++17",
