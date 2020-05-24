@@ -3165,6 +3165,23 @@
     ],
     "timestamp": "Feb/07/2022 08:49"
   },
+  "CF81215766": {
+    "contest_id": 1360,
+    "language": "GNU C++17",
+    "path": "codeforces/1360/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Honest Coach",
+    "problem_url": "https://codeforces.com/contest/1360/problem/B",
+    "submission_id": "CF81215766",
+    "submission_url": "https://codeforces.com/contest/1360/submission/81215766",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/24/2020 19:46"
+  },
   "CF81245686": {
     "contest_id": 1360,
     "language": "GNU C++17",
