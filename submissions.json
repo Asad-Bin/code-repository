@@ -1,4 +1,21 @@
 {
+  "CF130984030": {
+    "contest_id": 597,
+    "language": "GNU C++17",
+    "path": "codeforces/597/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Subsequences",
+    "problem_url": "https://codeforces.com/contest/597/problem/C",
+    "submission_id": "CF130984030",
+    "submission_url": "https://codeforces.com/contest/597/submission/130984030",
+    "tags": [
+      "data structures",
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "Oct/06/2021 20:00"
+  },
   "CF131056979": {
     "contest_id": 707,
     "language": "GNU C++17",
