@@ -56,6 +56,7 @@ int main()
         //freopen("out.txt","w",stdout);
     #endif
 	
+	
     ll t, n, x, y, num;
     
     cin >> t;
@@ -77,49 +78,3 @@ int main()
     #endif
 	return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
