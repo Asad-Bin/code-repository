@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-372 | [B - Fortune Telling](https://codeforces.com/contest/1634/problem/B) | [GNU C++17](./codeforces/1634/B.cpp) | `bitmasks` `math` | Feb/11/2022 10:54 | 
-371 | [D - Dr. Evil Underscores](https://codeforces.com/contest/1285/problem/D) | [GNU C++17](./codeforces/1285/D.cpp) | `bitmasks` `brute force` `dfs and similar` `divide and conquer` `dp` `greedy` `strings` `trees` `*1900` | Feb/11/2022 09:18 | 
+373 | [B - Fortune Telling](https://codeforces.com/contest/1634/problem/B) | [GNU C++17](./codeforces/1634/B.cpp) | `bitmasks` `math` | Feb/11/2022 10:54 | 
+372 | [D - Dr. Evil Underscores](https://codeforces.com/contest/1285/problem/D) | [GNU C++17](./codeforces/1285/D.cpp) | `bitmasks` `brute force` `dfs and similar` `divide and conquer` `dp` `greedy` `strings` `trees` `*1900` | Feb/11/2022 09:18 | 
+371 | [C - Ice Cave](https://codeforces.com/contest/540/problem/C) | [GNU C++17](./codeforces/540/C.cpp) | `dfs and similar` `*2000` | Feb/11/2022 08:35 | 
 370 | [C2 - Guessing the Greatest (hard version)](https://codeforces.com/contest/1486/problem/C2) | [GNU C++17](./codeforces/1486/C2.cpp) | `binary search` `interactive` `*1900` | Feb/10/2022 16:18 | 
 369 | [B - Orac and Medians](https://codeforces.com/contest/1349/problem/B) | [GNU C++17](./codeforces/1349/B.cpp) | `constructive algorithms` `greedy` `math` `*2000` | Feb/10/2022 11:12 | 
 368 | [G - A/B Matrix](https://codeforces.com/contest/1360/problem/G) | [GNU C++17](./codeforces/1360/G.cpp) | `constructive algorithms` `greedy` `math` `*1900` | Feb/10/2022 08:20 | 
