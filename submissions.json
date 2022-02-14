@@ -4622,6 +4622,22 @@
     ],
     "timestamp": "Feb/11/2022 10:54"
   },
+  "CF146419124": {
+    "contest_id": 1638,
+    "language": "GNU C++17",
+    "path": "codeforces/1638/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Inversion Graph",
+    "problem_url": "https://codeforces.com/contest/1638/problem/C",
+    "submission_id": "CF146419124",
+    "submission_url": "https://codeforces.com/contest/1638/submission/146419124",
+    "tags": [
+      "graphs",
+      "math"
+    ],
+    "timestamp": "Feb/14/2022 22:11"
+  },
   "CF35604020": {
     "contest_id": 935,
     "language": "GNU C",
