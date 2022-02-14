@@ -4622,6 +4622,22 @@
     ],
     "timestamp": "Feb/11/2022 10:54"
   },
+  "CF146364644": {
+    "contest_id": 1638,
+    "language": "GNU C++17",
+    "path": "codeforces/1638/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Reverse",
+    "problem_url": "https://codeforces.com/contest/1638/problem/A",
+    "submission_id": "CF146364644",
+    "submission_url": "https://codeforces.com/contest/1638/submission/146364644",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Feb/14/2022 20:40"
+  },
   "CF146377447": {
     "contest_id": 1638,
     "language": "GNU C++17",
