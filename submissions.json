@@ -4901,6 +4901,21 @@
     ],
     "timestamp": "Feb/17/2022 22:08"
   },
+  "CF147343463": {
+    "contest_id": 1644,
+    "language": "GNU C++14",
+    "path": "codeforces/1644/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Increase Subarray Sums",
+    "problem_url": "https://codeforces.com/contest/1644/problem/C",
+    "submission_id": "CF147343463",
+    "submission_url": "https://codeforces.com/contest/1644/submission/147343463",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Feb/22/2022 22:23"
+  },
   "CF147351357": {
     "contest_id": 1644,
     "language": "GNU C++14",
