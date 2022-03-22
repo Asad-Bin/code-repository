@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-405 | [D - Fill The Bag](https://codeforces.com/contest/1303/problem/D) | [GNU C++14](./codeforces/1303/D.cpp) | `bitmasks` `greedy` `*1900` | Apr/09/2022 00:25 | 
-404 | [C - Shinju and the Lost Permutation](https://codeforces.com/contest/1658/problem/C) | [GNU C++14](./codeforces/1658/C.cpp) | `constructive algorithms` `math` `*1700` | Mar/28/2022 10:58 | 
-403 | [B - Marin and Anti-coprime Permutation](https://codeforces.com/contest/1658/problem/B) | [GNU C++14](./codeforces/1658/B.cpp) | `combinatorics` `math` `number theory` `*800` | Mar/27/2022 20:46 | 
-402 | [A - Marin and Photoshoot](https://codeforces.com/contest/1658/problem/A) | [GNU C++14](./codeforces/1658/A.cpp) | `constructive algorithms` `implementation` `math` `*800` | Mar/27/2022 20:41 | 
-401 | [C - Make Equal With Mod](https://codeforces.com/contest/1656/problem/C) | [GNU C++14](./codeforces/1656/C.cpp) | `constructive algorithms` `math` `number theory` `sortings` `*1200` | Mar/24/2022 21:08 | 
-400 | [B - Subtract Operation](https://codeforces.com/contest/1656/problem/B) | [GNU C++14](./codeforces/1656/B.cpp) | `data structures` `greedy` `math` `two pointers` `*1100` | Mar/24/2022 20:55 | 
-399 | [A - Good Pairs](https://codeforces.com/contest/1656/problem/A) | [GNU C++14](./codeforces/1656/A.cpp) | `math` `sortings` `*800` | Mar/24/2022 20:40 | 
-398 | [C - Bracket Sequence Deletion](https://codeforces.com/contest/1657/problem/C) | [GNU C++14](./codeforces/1657/C.cpp) | `greedy` `implementation` `*1200` | Mar/22/2022 21:33 | 
+406 | [D - Fill The Bag](https://codeforces.com/contest/1303/problem/D) | [GNU C++14](./codeforces/1303/D.cpp) | `bitmasks` `greedy` `*1900` | Apr/09/2022 00:25 | 
+405 | [C - Shinju and the Lost Permutation](https://codeforces.com/contest/1658/problem/C) | [GNU C++14](./codeforces/1658/C.cpp) | `constructive algorithms` `math` `*1700` | Mar/28/2022 10:58 | 
+404 | [B - Marin and Anti-coprime Permutation](https://codeforces.com/contest/1658/problem/B) | [GNU C++14](./codeforces/1658/B.cpp) | `combinatorics` `math` `number theory` `*800` | Mar/27/2022 20:46 | 
+403 | [A - Marin and Photoshoot](https://codeforces.com/contest/1658/problem/A) | [GNU C++14](./codeforces/1658/A.cpp) | `constructive algorithms` `implementation` `math` `*800` | Mar/27/2022 20:41 | 
+402 | [C - Make Equal With Mod](https://codeforces.com/contest/1656/problem/C) | [GNU C++14](./codeforces/1656/C.cpp) | `constructive algorithms` `math` `number theory` `sortings` `*1200` | Mar/24/2022 21:08 | 
+401 | [B - Subtract Operation](https://codeforces.com/contest/1656/problem/B) | [GNU C++14](./codeforces/1656/B.cpp) | `data structures` `greedy` `math` `two pointers` `*1100` | Mar/24/2022 20:55 | 
+400 | [A - Good Pairs](https://codeforces.com/contest/1656/problem/A) | [GNU C++14](./codeforces/1656/A.cpp) | `math` `sortings` `*800` | Mar/24/2022 20:40 | 
+399 | [C - Bracket Sequence Deletion](https://codeforces.com/contest/1657/problem/C) | [GNU C++14](./codeforces/1657/C.cpp) | `greedy` `implementation` `*1200` | Mar/22/2022 21:33 | 
+398 | [A - Integer Moves](https://codeforces.com/contest/1657/problem/A) | [GNU C++14](./codeforces/1657/A.cpp) | `brute force` `math` `*800` | Mar/22/2022 21:01 | 
 397 | [D - Cross Coloring](https://codeforces.com/contest/1644/problem/D) | [GNU C++14](./codeforces/1644/D.cpp) | `implementation` `math` | Feb/22/2022 22:50 | 
 396 | [C - Increase Subarray Sums](https://codeforces.com/contest/1644/problem/C) | [GNU C++14](./codeforces/1644/C.cpp) | `implementation` | Feb/22/2022 22:23 | 
 395 | [B - Anti-Fibonacci Permutation](https://codeforces.com/contest/1644/problem/B) | [GNU C++17](./codeforces/1644/B.cpp) | `brute force` `constructive algorithms` | Feb/22/2022 20:46 | 
