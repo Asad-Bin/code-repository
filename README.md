@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-400 | [D - Fill The Bag](https://codeforces.com/contest/1303/problem/D) | [GNU C++14](./codeforces/1303/D.cpp) | `bitmasks` `greedy` `*1900` | Apr/09/2022 00:25 | 
-399 | [C - Shinju and the Lost Permutation](https://codeforces.com/contest/1658/problem/C) | [GNU C++14](./codeforces/1658/C.cpp) | `constructive algorithms` `math` `*1700` | Mar/28/2022 10:58 | 
-398 | [B - Marin and Anti-coprime Permutation](https://codeforces.com/contest/1658/problem/B) | [GNU C++14](./codeforces/1658/B.cpp) | `combinatorics` `math` `number theory` `*800` | Mar/27/2022 20:46 | 
+401 | [D - Fill The Bag](https://codeforces.com/contest/1303/problem/D) | [GNU C++14](./codeforces/1303/D.cpp) | `bitmasks` `greedy` `*1900` | Apr/09/2022 00:25 | 
+400 | [C - Shinju and the Lost Permutation](https://codeforces.com/contest/1658/problem/C) | [GNU C++14](./codeforces/1658/C.cpp) | `constructive algorithms` `math` `*1700` | Mar/28/2022 10:58 | 
+399 | [B - Marin and Anti-coprime Permutation](https://codeforces.com/contest/1658/problem/B) | [GNU C++14](./codeforces/1658/B.cpp) | `combinatorics` `math` `number theory` `*800` | Mar/27/2022 20:46 | 
+398 | [A - Marin and Photoshoot](https://codeforces.com/contest/1658/problem/A) | [GNU C++14](./codeforces/1658/A.cpp) | `constructive algorithms` `implementation` `math` `*800` | Mar/27/2022 20:41 | 
 397 | [D - Cross Coloring](https://codeforces.com/contest/1644/problem/D) | [GNU C++14](./codeforces/1644/D.cpp) | `implementation` `math` | Feb/22/2022 22:50 | 
 396 | [C - Increase Subarray Sums](https://codeforces.com/contest/1644/problem/C) | [GNU C++14](./codeforces/1644/C.cpp) | `implementation` | Feb/22/2022 22:23 | 
 395 | [B - Anti-Fibonacci Permutation](https://codeforces.com/contest/1644/problem/B) | [GNU C++17](./codeforces/1644/B.cpp) | `brute force` `constructive algorithms` | Feb/22/2022 20:46 | 
