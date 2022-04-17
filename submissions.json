@@ -5454,6 +5454,24 @@
     ],
     "timestamp": "Apr/17/2022 02:52"
   },
+  "CF153924188": {
+    "contest_id": 1659,
+    "language": "GNU C++14",
+    "path": "codeforces/1659/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Line Empire",
+    "problem_url": "https://codeforces.com/contest/1659/problem/C",
+    "submission_id": "CF153924188",
+    "submission_url": "https://codeforces.com/contest/1659/submission/153924188",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Apr/17/2022 21:53"
+  },
   "CF153970090": {
     "contest_id": 1659,
     "language": "GNU C++14",
