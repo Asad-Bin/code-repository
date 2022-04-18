@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+422 | [D - Reverse Sort Sum](https://codeforces.com/contest/1659/problem/D) | [GNU C++14](./codeforces/1659/D.cpp) | `constructive algorithms` `data structures` `greedy` `implementation` `math` `two pointers` | Apr/18/2022 11:25 | 
 421 | [D - Progressions Covering](https://codeforces.com/contest/1661/problem/D) | [GNU C++14](./codeforces/1661/D.cpp) | `data structures` `greedy` `*1900` | Apr/17/2022 02:52 | 
 420 | [D - GCD Guess](https://codeforces.com/contest/1665/problem/D) | [GNU C++14](./codeforces/1665/D.cpp) | `bitmasks` `chinese remainder theorem` `constructive algorithms` `games` `interactive` `math` `number theory` `*2000` | Apr/17/2022 01:33 | 
 419 | [C - Three Bags](https://codeforces.com/contest/1467/problem/C) | [GNU C++14](./codeforces/1467/C.cpp) | `constructive algorithms` `greedy` `*1900` | Apr/16/2022 10:55 | 
