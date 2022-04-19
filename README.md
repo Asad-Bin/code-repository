@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-427 | [D - For Gamers. By Gamers.](https://codeforces.com/contest/1657/problem/D) | [GNU C++14](./codeforces/1657/D.cpp) | `binary search` `brute force` `greedy` `math` `sortings` `*2000` | Apr/21/2022 03:21 | 
-426 | [B - Social Distance](https://codeforces.com/contest/1668/problem/B) | [GNU C++14](./codeforces/1668/B.cpp) | `greedy` `math` `sortings` `*900` | Apr/19/2022 21:56 | 
+428 | [D - For Gamers. By Gamers.](https://codeforces.com/contest/1657/problem/D) | [GNU C++14](./codeforces/1657/D.cpp) | `binary search` `brute force` `greedy` `math` `sortings` `*2000` | Apr/21/2022 03:21 | 
+427 | [B - Social Distance](https://codeforces.com/contest/1668/problem/B) | [GNU C++14](./codeforces/1668/B.cpp) | `greedy` `math` `sortings` `*900` | Apr/19/2022 21:56 | 
+426 | [C - Make it Increasing](https://codeforces.com/contest/1668/problem/C) | [GNU C++14](./codeforces/1668/C.cpp) | `greedy` `math` `*1300` | Apr/19/2022 21:43 | 
 425 | [D - Reverse Sort Sum](https://codeforces.com/contest/1659/problem/D) | [GNU C++14](./codeforces/1659/D.cpp) | `constructive algorithms` `data structures` `greedy` `implementation` `math` `two pointers` | Apr/18/2022 11:25 | 
 424 | [C - Line Empire](https://codeforces.com/contest/1659/problem/C) | [GNU C++14](./codeforces/1659/C.cpp) | `dp` `greedy` `implementation` `math` | Apr/17/2022 21:53 | 
 423 | [B - Bit Flipping](https://codeforces.com/contest/1659/problem/B) | [GNU C++14](./codeforces/1659/B.cpp) | `bitmasks` `constructive algorithms` `greedy` `strings` | Apr/17/2022 21:41 | 
