@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-452 | [F - Desktop Rearrangement](https://codeforces.com/contest/1674/problem/F) | [GNU C++17](./codeforces/1674/F.cpp) | `data structures` `greedy` `implementation` | May/03/2022 20:14 | 
-451 | [E - Breaking the Wall](https://codeforces.com/contest/1674/problem/E) | [GNU C++17](./codeforces/1674/E.cpp) | `binary search` `brute force` `constructive algorithms` `greedy` `math` | May/03/2022 09:27 | 
-450 | [D - A-B-C Sort](https://codeforces.com/contest/1674/problem/D) | [GNU C++17](./codeforces/1674/D.cpp) | `constructive algorithms` `implementation` `sortings` | May/02/2022 20:57 | 
-449 | [C - Infinite Replacement](https://codeforces.com/contest/1674/problem/C) | [GNU C++17](./codeforces/1674/C.cpp) | `combinatorics` `implementation` `strings` | May/02/2022 20:47 | 
-448 | [B - Dictionary](https://codeforces.com/contest/1674/problem/B) | [GNU C++17](./codeforces/1674/B.cpp) | `combinatorics` `math` | May/02/2022 20:42 | 
+453 | [F - Desktop Rearrangement](https://codeforces.com/contest/1674/problem/F) | [GNU C++17](./codeforces/1674/F.cpp) | `data structures` `greedy` `implementation` | May/03/2022 20:14 | 
+452 | [E - Breaking the Wall](https://codeforces.com/contest/1674/problem/E) | [GNU C++17](./codeforces/1674/E.cpp) | `binary search` `brute force` `constructive algorithms` `greedy` `math` | May/03/2022 09:27 | 
+451 | [D - A-B-C Sort](https://codeforces.com/contest/1674/problem/D) | [GNU C++17](./codeforces/1674/D.cpp) | `constructive algorithms` `implementation` `sortings` | May/02/2022 20:57 | 
+450 | [C - Infinite Replacement](https://codeforces.com/contest/1674/problem/C) | [GNU C++17](./codeforces/1674/C.cpp) | `combinatorics` `implementation` `strings` | May/02/2022 20:47 | 
+449 | [B - Dictionary](https://codeforces.com/contest/1674/problem/B) | [GNU C++17](./codeforces/1674/B.cpp) | `combinatorics` `math` | May/02/2022 20:42 | 
+448 | [A - Number Transformation](https://codeforces.com/contest/1674/problem/A) | [GNU C++17](./codeforces/1674/A.cpp) | `constructive algorithms` `math` | May/02/2022 20:38 | 
 447 | [D - Lost Arithmetic Progression](https://codeforces.com/contest/1673/problem/D) | [GNU C++17](./codeforces/1673/D.cpp) | `combinatorics` `math` `number theory` | May/02/2022 16:12 | 
 446 | [C - Palindrome Basis](https://codeforces.com/contest/1673/problem/C) | [GNU C++14](./codeforces/1673/C.cpp) | `brute force` `dp` `math` `number theory` | Apr/30/2022 22:30 | 
 445 | [B - A Perfectly Balanced String?](https://codeforces.com/contest/1673/problem/B) | [GNU C++14](./codeforces/1673/B.cpp) | `brute force` `greedy` `strings` | Apr/30/2022 22:14 | 
