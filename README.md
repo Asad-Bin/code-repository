@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+444 | [D - Lost Arithmetic Progression](https://codeforces.com/contest/1673/problem/D) | [GNU C++17](./codeforces/1673/D.cpp) | `combinatorics` `math` `number theory` | May/02/2022 16:12 | 
 443 | [D - Cyclic Rotation](https://codeforces.com/contest/1672/problem/D) | [GNU C++14](./codeforces/1672/D.cpp) | `constructive algorithms` `greedy` `implementation` `two pointers` `*1700` | Apr/26/2022 23:56 | 
 442 | [C - Unequal Array](https://codeforces.com/contest/1672/problem/C) | [GNU C++14](./codeforces/1672/C.cpp) | `constructive algorithms` `greedy` `implementation` `*1100` | Apr/23/2022 20:33 | 
 441 | [B - I love AAAB](https://codeforces.com/contest/1672/problem/B) | [GNU C++14](./codeforces/1672/B.cpp) | `constructive algorithms` `implementation` `*800` | Apr/23/2022 20:15 | 
