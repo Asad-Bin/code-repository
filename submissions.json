@@ -6021,6 +6021,27 @@
     ],
     "timestamp": "May/03/2022 20:14"
   },
+  "CF156119391": {
+    "contest_id": 1670,
+    "language": "GNU C++17",
+    "path": "codeforces/1670/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Very Suspicious",
+    "problem_url": "https://codeforces.com/contest/1670/problem/D",
+    "submission_id": "CF156119391",
+    "submission_url": "https://codeforces.com/contest/1670/submission/156119391",
+    "tags": [
+      "binary search",
+      "brute force",
+      "geometry",
+      "greedy",
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "May/06/2022 22:27"
+  },
   "CF156283659": {
     "contest_id": 1670,
     "language": "GNU C++17",
