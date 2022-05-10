@@ -6021,6 +6021,23 @@
     ],
     "timestamp": "May/03/2022 20:14"
   },
+  "CF156572711": {
+    "contest_id": 1678,
+    "language": "GNU C++17",
+    "path": "codeforces/1678/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tokitsukaze and Meeting",
+    "problem_url": "https://codeforces.com/contest/1678/problem/D",
+    "submission_id": "CF156572711",
+    "submission_url": "https://codeforces.com/contest/1678/submission/156572711",
+    "tags": [
+      "dp",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/10/2022 09:29"
+  },
   "CF156744424": {
     "contest_id": 1676,
     "language": "GNU C++17",
